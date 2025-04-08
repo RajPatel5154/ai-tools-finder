@@ -94,7 +94,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
 
 ---
-
-## 📧 Contact
-
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
