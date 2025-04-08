@@ -5,7 +5,7 @@ import os
 app = Flask(__name__, template_folder="templates")
 
 # ✅ Set OpenAI API key directly inside the client
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "OPEN AI API KEY")  # Replace with your key
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "OPENAI_API_KEY")  # Replace with your key
 
 @app.route('/')
 def index():
